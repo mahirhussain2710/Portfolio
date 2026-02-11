@@ -223,7 +223,8 @@ footer {
 }
 ```
 ## OUTPUT
-![alt text](<../Screenshot (23).png>)
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/441915ca-cfdb-44f0-9228-4d27a14e3222" />
+
 ![alt text](<Screenshot (24).png>)
 ![alt text](<Screenshot (25).png>)
 ## RESULT
