@@ -223,7 +223,7 @@ footer {
 }
 ```
 ## OUTPUT
-![Uploading Screenshot (23).png…]()
+
 ![alt text](<Screenshot (24).png>)
 ![alt text](<Screenshot (25).png>)
 ## RESULT
